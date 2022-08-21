@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ashleysamanth66.github.io/bab-2/sitemap.xml
